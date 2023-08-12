@@ -1,0 +1,16 @@
+[26-Dec-2022 14:37:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/matt360view/public_html/admin/database/factories/FileFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/factories/FileFactory.php on line 8
+[26-Dec-2022 14:37:38 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/matt360view/public_html/admin/database/factories/TagFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/factories/TagFactory.php on line 8
+[26-Dec-2022 14:37:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/matt360view/public_html/admin/database/factories/TourFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/factories/TourFactory.php on line 8
+[26-Dec-2022 14:37:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/matt360view/public_html/admin/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/factories/UserFactory.php on line 11

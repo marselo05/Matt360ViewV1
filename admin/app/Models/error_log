@@ -1,0 +1,20 @@
+[26-Dec-2022 14:30:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/matt360view/public_html/admin/app/Models/File.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Models/File.php on line 8
+[26-Dec-2022 14:30:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/matt360view/public_html/admin/app/Models/Tag.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Models/Tag.php on line 8
+[26-Dec-2022 14:30:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/matt360view/public_html/admin/app/Models/Tour.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Models/Tour.php on line 8
+[26-Dec-2022 14:31:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/matt360view/public_html/admin/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Models/User.php on line 13
+[26-Dec-2022 14:31:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/matt360view/public_html/admin/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Models/Video.php on line 8

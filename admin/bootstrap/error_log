@@ -1,0 +1,4 @@
+[26-Dec-2022 14:33:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/matt360view/public_html/admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/bootstrap/app.php on line 14

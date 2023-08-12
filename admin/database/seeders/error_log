@@ -1,0 +1,16 @@
+[26-Dec-2022 14:40:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/matt360view/public_html/admin/database/seeders/DatabaseSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/seeders/DatabaseSeeder.php on line 9
+[26-Dec-2022 14:40:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/matt360view/public_html/admin/database/seeders/FileSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/seeders/FileSeeder.php on line 8
+[26-Dec-2022 14:40:18 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/matt360view/public_html/admin/database/seeders/TagSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/seeders/TagSeeder.php on line 8
+[26-Dec-2022 14:40:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/matt360view/public_html/admin/database/seeders/TourSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/seeders/TourSeeder.php on line 7

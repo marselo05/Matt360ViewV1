@@ -1,0 +1,4 @@
+[26-Dec-2022 14:29:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/matt360view/public_html/admin/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Console/Kernel.php on line 8

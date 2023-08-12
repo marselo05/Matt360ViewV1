@@ -1,0 +1,40 @@
+[26-Dec-2022 14:38:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-Dec-2022 14:38:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[26-Dec-2022 14:38:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 7
+[26-Dec-2022 14:38:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[26-Dec-2022 14:38:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[26-Dec-2022 14:39:03 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2021_06_14_024008_create_tags_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2021_06_14_024008_create_tags_table.php on line 7
+[26-Dec-2022 14:39:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2021_06_14_024041_create_files_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2021_06_14_024041_create_files_table.php on line 7
+[26-Dec-2022 14:39:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2021_07_09_174044_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2021_07_09_174044_create_sessions_table.php on line 7
+[26-Dec-2022 14:39:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2021_07_09_235607_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2021_07_09_235607_create_videos_table.php on line 7
+[26-Dec-2022 14:39:42 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/matt360view/public_html/admin/database/migrations/2021_08_09_024047_create_tours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/database/migrations/2021_08_09_024047_create_tours_table.php on line 7

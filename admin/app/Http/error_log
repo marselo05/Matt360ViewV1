@@ -1,0 +1,4 @@
+[26-Dec-2022 14:30:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/matt360view/public_html/admin/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/app/Http/Kernel.php on line 7

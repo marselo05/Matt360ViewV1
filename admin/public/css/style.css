@@ -1,0 +1,69 @@
+.btn-acciones {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 1px;
+    box-sizing: border-box;
+}
+.btn-acciones button {
+	background: transparent;
+    border: none;
+}
+
+.wrapper-estado {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+	.wrapper-estado span {
+	    width: 20px;
+	    height: 20px;
+	    border-radius: 10px;
+	    box-sizing: border-box;
+	    border: 1px solid;
+	}
+		.wrapper-estado_habilitado {
+	    	background: #81c784;
+		} 
+		.wrapper-estado_deshabilitado {
+	    	background: #ef5350;
+		} 
+.text-center {
+	text-align: center;
+}
+
+  	.bd-placeholder-img {
+	        font-size: 1.125rem;
+	        text-anchor: middle;
+	        -webkit-user-select: none;
+	        -moz-user-select: none;
+	        user-select: none;
+      	}
+
+      	@media (min-width: 768px) {
+        	.bd-placeholder-img-lg {
+          		font-size: 3.5rem;
+        	}
+      	}
+
+      	.table-sm>:not(caption)>*>* {
+		    padding: .35rem; 
+		    vertical-align: middle;
+		}
+
+		.form-check .form-check-input {
+		    float: left;
+		    margin: 5px 11px 0px -7px;
+		}
+
+		.cont-formulario {
+			display: inline-block;
+    		width: 980px; 
+    		box-sizing: border-box; 
+    		border: 1px solid #cdcdcd; 
+    		border-radius: 5px; 
+    		padding: 1rem;
+		}
+			.cont-formulario label {margin-bottom: 6px; }

@@ -1,0 +1,60 @@
+[26-Dec-2022 14:34:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/app.php on line 16
+[26-Dec-2022 14:34:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/broadcasting.php on line 18
+[26-Dec-2022 14:34:58 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/cache.php on line 18
+[26-Dec-2022 14:35:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/database.php on line 18
+[26-Dec-2022 14:35:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/filesystems.php on line 16
+[26-Dec-2022 14:35:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'App\Providers\RouteServiceProvider' not found in /home/matt360view/public_html/admin/config/fortify.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/fortify.php on line 64
+[26-Dec-2022 14:35:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/hashing.php on line 32
+[26-Dec-2022 14:35:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Class 'Laravel\Jetstream\Features' not found in /home/matt360view/public_html/admin/config/jetstream.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/jetstream.php on line 49
+[26-Dec-2022 14:36:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/logging.php on line 20
+[26-Dec-2022 14:36:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/mail.php on line 16
+[26-Dec-2022 14:36:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/queue.php on line 16
+[26-Dec-2022 14:36:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/sanctum.php on line 16
+[26-Dec-2022 14:36:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/services.php on line 18
+[26-Dec-2022 14:36:48 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/matt360view/public_html/admin/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/session.php on line 21
+[26-Dec-2022 14:36:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/matt360view/public_html/admin/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/matt360view/public_html/admin/config/view.php on line 17
